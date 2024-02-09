@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Gho Shrestha</h1>
-<h3 align="center">A passionate frontend React developer</h3>
+<h3 align="center">A Software Developer ⌛</h3>
 
 <img src="https://i.pinimg.com/564x/bf/9c/0d/bf9c0d8b5045e02cc6febd7a4c82ac63.jpg" align="right" alt="code" width="300">
 
