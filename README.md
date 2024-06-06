@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ghoanish" target="blank"><img src="https://img.shields.io/twitter/follow/ghoanish?logo=twitter&style=for-the-badge" alt="ghoanish" /></a> </p>
 
-- 🔭 I’m currently working on **Blog Site**
+- 🔭 I’m currently working on **Cosmetic Site FullStack**
 
 - 🌱 I’m currently learning **NodeJS, MongodB and TypeScript**
 
