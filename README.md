@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Cosmetic Site FullStack**
 
-- 🌱 I’m currently learning **NodeJS, MongodB and TypeScript**
+- 🌱 I’m currently learning **Fundamentals of Machine Learning **
 
 - 👨‍💻 All of my projects are available at [https://anishghoshrestha.netlify.app/](https://anishghoshrestha.netlify.app/)
 
-- 💬 Ask me about **ReactJS, Redux**
+- 💬 Ask me about **React, Node**
 
-- 📫 How to reach me **anishgshrestha@gmail.com**
+- 📫 How to reach me **anishghoshrestha@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OjnCOqWUpCB4c6ohxbxnO5sxNkJ6l20C/view?usp=sharing](https://drive.google.com/file/d/1OjnCOqWUpCB4c6ohxbxnO5sxNkJ6l20C/view?usp=sharing)
 
