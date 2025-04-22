@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/ghoanish" target="blank"><img src="https://img.shields.io/twitter/follow/ghoanish?logo=twitter&style=for-the-badge" alt="ghoanish" /></a> </p>
 
-- 🔭 I’m currently working on **Cosmetic Site FullStack**
+- 🔭 I’m currently working on training chatbot on **sconstructionai**
 
-- 🌱 I’m currently learning **Fundamentals of Machine Learning **
+- 🌱 I’m currently learning **ElectronJS**
 
 - 👨‍💻 All of my projects are available at [https://anishghoshrestha.netlify.app/](https://anishghoshrestha.netlify.app/)
 
